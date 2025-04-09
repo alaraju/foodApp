@@ -3,7 +3,7 @@ import Navbar from './components/Navbar/Navbar'
 import './App.css'
 import { Route, Routes } from 'react-router-dom'
 import { Home } from './pages/Home/Home'
-import { Cart } from './pages/Cart/cart'
+import { Cart } from './pages/Cart/Cart'
 import { PlaceOrder } from './pages/PlaceOrder/PlaceOrder'
 import LoginPopup from './components/LoginPopup/LoginPopup'
 const App = () => {
